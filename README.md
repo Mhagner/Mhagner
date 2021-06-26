@@ -5,7 +5,7 @@
 
 ## Olá pessoal 👋
 Sou apaixonado por resolver problemas utilizando a programação.
-Sou um Frontend Developer :computer:
+Sou um Full Stack Developer :computer:
 
  :rocket:  &nbsp; Estou trabalhando na **ACCT | Consulting & Technology**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
