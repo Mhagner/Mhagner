@@ -7,7 +7,7 @@
 Sou apaixonado por resolver problemas utilizando a programação.
 Sou um Full Stack Developer :computer:
 
- :rocket:  &nbsp; Estou trabalhando na **ACCT | Consulting & Technology**
+ :rocket:  &nbsp; Estou trabalhando como Desenvolvedor Pleno na **ACCT | Consulting & Technology**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js & Typescript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, tocar contra baixo e seriados no Netflix
