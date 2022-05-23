@@ -19,7 +19,7 @@ Sou um Full Stack Developer :computer:
 <br/>
 
 ## Tecnologias que estou trabalhando e estudando
-
+<br/>
 <div>
    <img style="width: 80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
    <img style="width: 80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
