@@ -55,4 +55,4 @@ Dentre as experiências já participou do levantamento de requisitos de regras d
 
 Atualmente está trabalhando como desenvolvedor frontend na ACCT Consulting e Technology, umas das empresas líderes no seguimento de desenvolvimento e implantação de e-commerce no Brasil e no mundo.
 
-Na ACCT trabalhou na squad responsável pelo projeto de desenvolvimento do novo ecommerce da Le Biscuit na plataforma VTEX IO. (https://www.lebiscuit.com.br) e no projeto de desenvolvimento do Marketplaced Shop do Supermercado TATA do Uruguai também com a tecnologia VTEX IO.
+Na ACCT trabalhou na squad responsável pelo projeto de desenvolvimento do novo ecommerce da Le Biscuit na plataforma VTEX IO. (https://www.lebiscuit.com.br) e no projeto de desenvolvimento do Marketplaced Shop do Supermercado TATA do Uruguai também com a tecnologia VTEX IO (TATA Shop](http://shop.tata.com.uy/)).
